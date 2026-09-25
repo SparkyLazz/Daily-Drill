@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Drills/drill-2026-09-10.md",
+                "file": "Daily/Drills/drill-2026-09-15.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "drill-2026-09-10"
+              "title": "drill-2026-09-15"
             }
           }
         ]
@@ -190,10 +190,12 @@
   },
   "active": "237b2e744722fb65",
   "lastOpenFiles": [
-    "Daily/Solutions/drill-2026-09-10.py",
-    "Daily/Drills/drill-2026-09-09.md",
-    "Daily/Drills/drill-2026-09-10.md",
+    "Daily/Drills/drill-2026-09-14.md",
+    "Daily/Drills/drill-2026-09-15.md",
     "Daily/Drills/progress.md",
+    "Daily/Drills/drill-2026-09-10.md",
+    "Daily/Drills/drill-2026-09-09.md",
+    "Daily/Solutions/drill-2026-09-10.py",
     "Daily/Solutions/drill-2026-09-09.py",
     "Daily/Welcome.md",
     "Daily/Solutions",
