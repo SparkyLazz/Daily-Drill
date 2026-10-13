@@ -1,4 +1,6 @@
 def solve(climbs: list[int]) -> int:
+    if not climbs:
+        return 0
     currentHeight = 0
     currentMax = 0
     for i in range(len(climbs)):
