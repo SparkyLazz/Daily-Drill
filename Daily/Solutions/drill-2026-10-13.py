@@ -17,5 +17,5 @@ def solve(bowls: list[int]) -> int:
             last = current
     return turn
 
-bowls = [4, 4, 4]
+bowls = [2, 5, 3, 3, 7]
 print(solve(bowls))
